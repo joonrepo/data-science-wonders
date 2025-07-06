@@ -87,3 +87,8 @@ print("Function to add more predictors has been created.")
 def this_is_test():
     greeting = 'hello world'
     return greeting
+
+## -- This is second test --
+def this_is_second_test():
+    greeting = 'hello world two'
+    return greeting
