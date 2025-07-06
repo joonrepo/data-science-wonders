@@ -81,3 +81,14 @@ def add_more_predictors(df):
     df.dropna(inplace=True)
     return df, additional_predictors
 print("Function to add more predictors has been created.")
+
+
+## -- This is to test the git --
+def this_is_test():
+    greeting = 'hello world'
+    return greeting
+
+## -- This is second test --
+def this_is_second_test():
+    greeting = 'hello world two'
+    return greeting
